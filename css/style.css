@@ -48,6 +48,7 @@
   }
 .container-fluid{
     padding-bottom:30px;
+    padding-top: 30px;
     
 }
 /*--footer*/
@@ -56,6 +57,7 @@
     background-color: #3c3d41;
     color: white;
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 #myFooter .footer-copyright {
